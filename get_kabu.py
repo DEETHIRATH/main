@@ -1,5 +1,5 @@
 
-from seleniums import webdriver
+from selenium import webdriver
 from time import sleep
 
 driver = webdriver.Chrome('C:\data\chromedriver')
